@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://harishkumarkr1.github.io/csb-b7jl4/static/css/main.1be6112a.chunk.css",
+    "main.js": "https://harishkumarkr1.github.io/csb-b7jl4/static/js/main.ac14e589.chunk.js",
+    "main.js.map": "https://harishkumarkr1.github.io/csb-b7jl4/static/js/main.ac14e589.chunk.js.map",
+    "runtime-main.js": "https://harishkumarkr1.github.io/csb-b7jl4/static/js/runtime-main.35b8b0f2.js",
+    "runtime-main.js.map": "https://harishkumarkr1.github.io/csb-b7jl4/static/js/runtime-main.35b8b0f2.js.map",
+    "static/js/2.a53d78cc.chunk.js": "https://harishkumarkr1.github.io/csb-b7jl4/static/js/2.a53d78cc.chunk.js",
+    "static/js/2.a53d78cc.chunk.js.map": "https://harishkumarkr1.github.io/csb-b7jl4/static/js/2.a53d78cc.chunk.js.map",
+    "index.html": "https://harishkumarkr1.github.io/csb-b7jl4/index.html",
+    "static/css/main.1be6112a.chunk.css.map": "https://harishkumarkr1.github.io/csb-b7jl4/static/css/main.1be6112a.chunk.css.map",
+    "static/js/2.a53d78cc.chunk.js.LICENSE.txt": "https://harishkumarkr1.github.io/csb-b7jl4/static/js/2.a53d78cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35b8b0f2.js",
+    "static/js/2.a53d78cc.chunk.js",
+    "static/css/main.1be6112a.chunk.css",
+    "static/js/main.ac14e589.chunk.js"
+  ]
+}
